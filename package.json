@@ -1,0 +1,36 @@
+{
+  "name": "reduxdemo2",
+  "version": "1.0.0",
+  "description": "redux demo using react-redux connect function",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "css-loader": "^0.25.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0",
+    "jest": "^16.0.2",
+    "jest-cli": "^16.0.2",
+    "json-loader": "^0.5.4",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "style-loader": "^0.13.1",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "serge",
+  "license": "ISC"
+}

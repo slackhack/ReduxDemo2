@@ -1,0 +1,39 @@
+.form {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: lavender;
+}
+
+input{
+    position: absolute;
+    left:20px;
+    top:20px;
+}
+
+button{
+    position: absolute;
+    left:20px;
+    top:40px;
+
+}
+ul{
+    list-style: none;
+    padding-left: 5px;
+}
+
+li{
+}
+
+.items{
+    position:absolute;
+    display: inline-block;
+    width : 120px;
+    top: 60px;
+    left:20px;
+    height: 80%;
+    border-radius: 2px;
+    border: 2px solid green;
+}
